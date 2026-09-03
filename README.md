@@ -11,9 +11,7 @@ This repository contains all author-generated code used to compute the
 results reported in the manuscript: EEG spectral feature extraction,
 EEG–image semantic matching and verification, the attention-adaptive
 perceptual degradation model, and the whole-cohort statistical validation.
-It is provided without restriction, as required by PLOS ONE's code-sharing
-policy.
-
+It is provided without restriction, 
 ## Contents
 
 | File | Purpose |
@@ -73,10 +71,10 @@ datasets attached as Kaggle Datasets (so they resolve under
 | Table 2 (EEG representation & matching) | `table2_eeg_representation.txt` |
 | Fig 4 (PCA 2D scatter) | `Figure_PCA_Representation.pdf` |
 | PCA justification (scree/cumvar) | `pca_component_justification.png` |
-| Fig 5 (label matching) | `Figure_Label_Matching.pdf` |
+| Fig 6 (label matching) | `Figure_Label_Matching.pdf` |
 | Table 3 (average quantitative results) | `table3_quantitative_avg.txt` |
 | Table 4 (representative image results) | `table4_representative_image.txt` |
-| Fig 7 (quantitative metrics bar chart) | `Figure7_Quantitative_Metrics.pdf` |
+| Fig 8 (quantitative metrics bar chart) | `Figure7_Quantitative_Metrics.pdf` |
 | Table 5 (ablation study) | `table5_ablation.txt` |
 | Table 6 (group-level validation) | `table_group_validation.txt` |
 | Fig (group validation scatter + boxplot) | `attention_vs_ssim_group_analysis.png` |
@@ -84,7 +82,7 @@ datasets attached as Kaggle Datasets (so they resolve under
 | Per-subject simulation results (raw) | `per_subject_simulation_results.csv` |
 | Full run summary (all stages) | `group_stats_summary.txt` |
 
-Note: the manuscript's Fig 1 (architecture diagram) and Fig 6 (schematic
+Note: the manuscript's Fig 1 (architecture diagram) and Fig 7 (schematic
 degradation illustration) are generated directly in the LaTeX source as
 inline TikZ graphics and are not produced by this script, since they are
 fully synthetic, author-generated, non-photographic figures.
