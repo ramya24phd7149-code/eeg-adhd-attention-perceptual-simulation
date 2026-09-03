@@ -11,7 +11,7 @@ This repository contains all author-generated code used to compute the
 results reported in the manuscript: EEG spectral feature extraction,
 EEG–image semantic matching and verification, the attention-adaptive
 perceptual degradation model, and the whole-cohort statistical validation.
-It is provided without restriction, 
+It is provided without restriction.
 ## Contents
 
 | File | Purpose |
